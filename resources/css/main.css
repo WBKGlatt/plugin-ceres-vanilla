@@ -25,6 +25,7 @@
        url('../fonts/josefin-sans-v12-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/josefin-sans-v12-latin-600.svg#JosefinSans') format('svg'); /* Legacy iOS */
 }
+/* Change Fonts */
 body {
     font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
     font-weight: 600;
@@ -38,6 +39,22 @@ body {
     font-size: 1rem;
     line-height: 1.5;
 }
+.featured-category {
+    display: block;
+    height: 100%;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+    position: relative;
+    overflow: hidden
+}
+.sidebar-categories {
+    background: #fff;
+    font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+    height: 100%
+}
+/* Change Colors */
 .wrapper-main #page-header.top-bar {
     background-color: #000000;
 }
@@ -46,4 +63,19 @@ body {
 }
 .wrapper-main .page-content {
     background-color: #fff;
+}
+.featured-category {
+    display: block;
+    height: 100%;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    font-family: Custom-Font, Helvetica, Arial, sans-serif;
+    position: relative;
+    overflow: hidden
+}
+.sidebar-categories {
+    background: #fff;
+    font-family: Custom-Font, Helvetica, Arial, sans-serif;
+    height: 100%
 }
