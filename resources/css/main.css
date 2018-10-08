@@ -32,6 +32,12 @@ body {
     line-height: 1.5;
     color: #4d4f4d;
 }
-.top-bar {
+.wrapper-main #page-header.top-bar {
     background-color: #000000;
+}
+.wrapper-main .navbar {
+    font-family: 'Josefin Sans', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1.5;
 }
