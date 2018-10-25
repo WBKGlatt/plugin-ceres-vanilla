@@ -24,3 +24,42 @@
        url('../documents/fonts/josefin-sans-v12-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../documents/fonts/josefin-sans-v12-latin-600.svg#JosefinSans') format('svg'); /* Legacy iOS */
 }
+/* muli-300 - latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../documents/fonts/muli-v12-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Muli Light'), local('Muli-Light'),
+       url('../documents/fonts/muli-v12-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../documents/fonts/muli-v12-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../documents/fonts/muli-v12-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('../documents/fonts/muli-v12-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../documents/fonts/muli-v12-latin-300.svg#Muli') format('svg'); /* Legacy iOS */
+}
+/* muli-regular - latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../documents/fonts/muli-v12-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Muli Regular'), local('Muli-Regular'),
+       url('../documents/fonts/muli-v12-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../documents/fonts/muli-v12-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../documents/fonts/muli-v12-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../documents/fonts/muli-v12-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../documents/fonts/muli-v12-latin-regular.svg#Muli') format('svg'); /* Legacy iOS */
+}
+/* muli-600 - latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../documents/fonts/muli-v12-latin-600.eot'); /* IE9 Compat Modes */
+  src: local('Muli SemiBold'), local('Muli-SemiBold'),
+       url('../documents/fonts/muli-v12-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../documents/fonts/muli-v12-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../documents/fonts/muli-v12-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('../documents/fonts/muli-v12-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../documents/fonts/muli-v12-latin-600.svg#Muli') format('svg'); /* Legacy iOS */
+}
